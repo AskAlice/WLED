@@ -9,7 +9,7 @@
 //   21   // DHT 21
 //   22   // DHT 22  (AM2302), AM2321 *** default
 #ifndef USERMOD_DHT_DHTTYPE
-#define USERMOD_DHT_DHTTYPE 22
+#define USERMOD_DHT_DHTTYPE 11
 #endif
 
 #if USERMOD_DHT_DHTTYPE == 11
