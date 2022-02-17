@@ -33,7 +33,7 @@
 #define DHTPIN USERMOD_DHT_PIN
 #else
 #ifdef ARDUINO_ARCH_ESP32
-#define DHTPIN 21
+#define DHTPIN 14
 #else //ESP8266 boards
 #define DHTPIN 4
 #endif
